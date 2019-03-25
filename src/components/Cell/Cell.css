@@ -1,0 +1,22 @@
+.cell{
+    background-color:blue;
+}
+
+.circle {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid black;
+
+  }
+
+.white{
+    background-color:white !important;
+    opacity: 100%;
+}
+.red {
+    background-color: red;
+}
+.black{
+    background-color:black;
+}
