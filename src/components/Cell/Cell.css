@@ -7,8 +7,11 @@
     height: 75px;
     border-radius: 50%;
     border: 2px solid black;
-
   }
+
+.wins{
+    border: 2px solid gold;
+}
 
 .white{
     background-color:white !important;

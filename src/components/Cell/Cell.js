@@ -13,6 +13,10 @@ function classNumToText (props){
             return "black";
         case 2:
             return "red";
+        case 11:
+            return "black wins";
+        case 12:
+            return "red wins";
         default:
             return "white";
     }
