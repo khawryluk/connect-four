@@ -1,0 +1,22 @@
+.labels{
+    display:flex;
+    flex-direction:column;
+    padding:0px 30px 0px 10px;
+
+}
+
+.hide{
+    visibility: hidden;
+}
+
+.unhide{
+    visibility: visible;
+}
+
+.player1{
+    color:black
+}
+
+.player2{
+    color:rgb(114, 19, 19);
+}
